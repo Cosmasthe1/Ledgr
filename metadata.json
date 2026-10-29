@@ -1,0 +1,6 @@
+{
+  "name": "Android SMART POS",
+  "description": "Smart, fast, secure, and reliable Android POS for retail and restaurant order management, inventory control, sales analytics, staff shifts, and seamless payments (Tap to Pay NFC, M-Pesa STK push, Paybill/Till, Visa/Mastercard).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
